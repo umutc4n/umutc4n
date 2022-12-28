@@ -1,3 +1,22 @@
+```
+                                                                            
+                     ,--,                                                     
+                   ,--.'|               ,---,.,-.----.    .--.--.       ,---,.
+                ,--,  | :      ,---.  ,'  .' |\    /  \  /  /    '.   ,'  .' |
+         ,--,,---.'|  : '     /__./|,---.'   |;   :    \|  :  /`. / ,---.'   |
+       ,'_ /|;   : |  | ;,---.;  ; ||   |   .'|   | .\ :;  |  |--`  |   |   .'
+  .--. |  | :|   | : _' /___/ \  | |:   :  |-,.   : |: ||  :  ;_    :   :  |-,
+,'_ /| :  . |:   : |.'  \   ;  \ ' |:   |  ;/||   |  \ : \  \    `. :   |  ;/|
+|  ' | |  . .|   ' '  ; :\   \  \: ||   :   .'|   : .  /  `----.   \|   :   .'
+|  | ' |  | |\   \  .'. | ;   \  ' .|   |  |-,;   | |  \  __ \  \  ||   |  |-,
+:  | : ;  ; | `---`:  | '  \   \   ''   :  ;/||   | ;\  \/  /`--'  /'   :  ;/|
+'  :  `--'   \     '  ; |   \   `  ;|   |    \:   ' | \.'--'.     / |   |    \
+:  ,      .-./     |  : ;    :   \ ||   :   .':   : :-'   `--'---'  |   :   .'
+ `--`----'         '  ,/      '---" |   | ,'  |   |.'               |   | ,'  
+                   '--'             `----'    `---'                 `----'    
+                                
+```
+
 <h1 align="center">Hi 👋, I'm u4</h1>
 <h3 align="center"> I'm based in Turkey, Istanbul. I am working on algorithm and programming and still improving myself on developing web and mobil applications. I am also following up new trends in programming technologies, innovations and enterprises on web domains.</h3>
 
@@ -15,7 +34,8 @@
 </p>
 
 <p align="left"> 
-<img src="https://img.shields.io/badge/dynamic/json?color=informational&label=visits&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%umutc4n.umutc4n%2Freadme&style=for-the-badge&logo=GitHub" alt="Umutcan Erkut" /> 
+<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.umutc4n&label=visits&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge
+" alt="Umutcan Erkut" />
 </p>
 
 
