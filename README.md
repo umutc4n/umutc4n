@@ -22,6 +22,8 @@
 
 
 <hr>
+<div  align="center"> <img src="./github-contribution-grid-snake.svg" /></div>
+<hr>
 
 <p align="left">
 💠 <b>Operating Systems:</b>  🔠 Windows 11
@@ -34,8 +36,7 @@
 </p>
 
 <p align="left"> 
-<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.umutc4n&label=visits&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge
-" alt="Umutcan Erkut" />
+<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.umutc4n&label=visits&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" alt="Umutcan Erkut" />
 </p>
 
 
