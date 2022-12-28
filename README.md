@@ -22,6 +22,8 @@
 
 
 <hr>
+<div  align="center"> <img src="./github-contribution-grid-snake.svg" /></div>
+<hr>
 
 <p align="left">
 💠 <b>Operating Systems:</b>  🔠 Windows 11
