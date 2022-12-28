@@ -11,11 +11,11 @@
 
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=onrtsdmr&show_icons=true&locale=en&theme=dark" alt="onurtasdemir" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=umutc4n&show_icons=true&locale=en&theme=dark" alt="Umutcan Erkut" />
 </p>
 
 <p align="left"> 
-<img src="https://img.shields.io/badge/dynamic/json?color=informational&label=visits&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%2Fonrtsdmr.onrtsdmr%2Freadme&style=for-the-badge&logo=GitHub" alt="onurtasdemir" /> 
+<img src="https://img.shields.io/badge/dynamic/json?color=informational&label=visits&query=value&url=https%3A%2F%2Fapi.countapi.xyz%2Fhit%umutc4n.umutc4n%2Freadme&style=for-the-badge&logo=GitHub" alt="Umutcan Erkut" /> 
 </p>
 
 
@@ -103,13 +103,13 @@
 
 <p align="left"> 
     <a href="https://instagram.com/uc.erkut" target="blank">
-        <img src="https://img.shields.io/badge/instagram-follow%20on%20onrtsdmr38-red?style=for-the-badge&logo=instagram" alt="uc.erkut" />
+        <img src="https://img.shields.io/badge/instagram-follow%20on%20uc.erkut-red?style=for-the-badge&logo=instagram" alt="uc.erkut" />
     </a> 
 </p>
 
 <p align="left"> 
     <a href="https://www.linkedin.com/in/umutc4n" target="blank">
-        <img src="https://img.shields.io/badge/linkedin-follow%20on%20onrtsdmr-blue?style=for-the-badge&logo=linkedin" alt="umutc4n" />
+        <img src="https://img.shields.io/badge/linkedin-follow%20on%20umutc4n-blue?style=for-the-badge&logo=linkedin" alt="umutc4n" />
     </a> 
 </p>
 
