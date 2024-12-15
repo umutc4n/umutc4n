@@ -1,10 +1,4 @@
 <h1 align="center">Merhaba 👋, Ben Umutcan Erkut | Hi 👋, I'm Umutcan Erkut</h1>
-
-<p align="center">
-🔀 <b>Dil Seçimi | Language Selection:</b>  
-[🇹🇷 Türkçe](<a href="#hakkımda">Hakkımda</a>) | [🇬🇧 English](<a href="#about-me">About Me</a>))
-</p>
-
 ---
 
 <a id="hakkımda"></a>
