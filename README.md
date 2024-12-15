@@ -2,7 +2,7 @@
 
 <p align="center">
 🔀 <b>Dil Seçimi | Language Selection:</b>  
-[🇹🇷 Türkçe](#hakkımda) | [🇬🇧 English](#about-me)
+[🇹🇷 Türkçe](<a href="#hakkımda">Hakkımda</a>) | [🇬🇧 English](<a href="#about-me">About Me</a>))
 </p>
 
 ---
