@@ -61,5 +61,5 @@ Hi, I'm **Umutcan Erkut**, a passionate software developer based in **Istanbul, 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/umutc4n/umutc4n/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="./github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
