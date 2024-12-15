@@ -22,29 +22,6 @@ Merhaba, ben **Umutcan Erkut**! İstanbul'da yaşayan, yazılım geliştirici ve
 
 ---
 
-### 🧑‍💻 Teknolojiler & Araçlar  
-<p align="center"> 
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
-  <img src="https://img.shields.io/badge/Code-Laravel-critical?style=flat&logo=laravel&logoColor=white&color=FF2D20" />
-  <img src="https://img.shields.io/badge/Code-Node.js-success?style=flat&logo=node.js&logoColor=white&color=339933" />
-  <img src="https://img.shields.io/badge/Code-Unreal_Engine-important?style=flat&logo=unrealengine&logoColor=white&color=0E1128" />
-  <img src="https://img.shields.io/badge/Code-Python-3572A5?style=flat&logo=python&logoColor=white" />
-</p>
-
----
-
-### 🌎 Benimle İletişime Geçin  
-<p align="center"> 
-  <a href="https://www.linkedin.com/in/umutc4n" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Follow%20me-blue?style=flat&logo=linkedin" />
-  </a>
-  <a href="https://instagram.com/uc.erkut" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow%20me-red?style=flat&logo=instagram" />
-  </a> 
-</p>
-
----
-
 <a id="about-me"></a>
 ## 🇬🇧 About Me  
 
@@ -60,7 +37,7 @@ Hi, I'm **Umutcan Erkut**, a passionate software developer based in **Istanbul, 
 
 ---
 
-### 🧑‍💻 Technologies & Tools  
+### 🧑‍💻 Teknolojiler & Araçlar  ### 🧑‍💻 Technologies & Tools  
 <p align="center"> 
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
   <img src="https://img.shields.io/badge/Code-Laravel-critical?style=flat&logo=laravel&logoColor=white&color=FF2D20" />
@@ -71,7 +48,7 @@ Hi, I'm **Umutcan Erkut**, a passionate software developer based in **Istanbul, 
 
 ---
 
-### 🌎 Connect With Me  
+### 🌎 Benimle İletişime Geçin  ### 🌎 Connect With Me  
 <p align="center"> 
   <a href="https://www.linkedin.com/in/umutc4n" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Follow%20me-blue?style=flat&logo=linkedin" />
