@@ -37,7 +37,7 @@ Hi, I'm **Umutcan Erkut**, a passionate software developer based in **Istanbul, 
 
 ---
 
-### 🧑‍💻 Teknolojiler & Araçlar  || 🧑‍💻 Technologies & Tools  
+### 🧑‍💻 Teknolojiler & Araçlar || Technologies & Tools  
 <p align="center"> 
   <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
   <img src="https://img.shields.io/badge/Code-Laravel-critical?style=flat&logo=laravel&logoColor=white&color=FF2D20" />
@@ -48,7 +48,7 @@ Hi, I'm **Umutcan Erkut**, a passionate software developer based in **Istanbul, 
 
 ---
 
-### 🌎 Benimle İletişime Geçin  || 🌎 Connect With Me  
+### 🌎 Benimle İletişime Geçin || Connect With Me  
 <p align="center"> 
   <a href="https://www.linkedin.com/in/umutc4n" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-Follow%20me-blue?style=flat&logo=linkedin" />
