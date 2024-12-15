@@ -1,4 +1,3 @@
-```
                                                                             
                      ,--,                                                     
                    ,--.'|               ,---,.,-.----.    .--.--.       ,---,.
@@ -14,123 +13,92 @@
 :  ,      .-./     |  : ;    :   \ ||   :   .':   : :-'   `--'---'  |   :   .'
  `--`----'         '  ,/      '---" |   | ,'  |   |.'               |   | ,'  
                    '--'             `----'    `---'                 `----'    
-                                
-```
 
-<h1 align="center">Hi 👋, I'm u4</h1>
-<h3 align="center"> I'm based in Turkey, Istanbul. I am working on algorithm and programming and still improving myself on developing web and mobil applications. I am also following up new trends in programming technologies, innovations and enterprises on web domains.</h3>
+<h1 align="center">Merhaba 👋, Ben Umutcan Erkut | Hi 👋, I'm Umutcan Erkut</h1>
 
-
-<hr>
-<div  align="center"> <img src="./github-contribution-grid-snake.svg" /></div>
-<hr>
-
-<p align="left">
-💠 <b>Operating Systems:</b>  🔠 Windows 11
+<p align="center">
+🔀 <b>Dil Seçimi | Language Selection:</b>  
+[🇹🇷 Türkçe](#hakkımda) | [🇬🇧 English](#about-me)
 </p>
 
+---
 
+<a id="hakkımda"></a>
+## 🇹🇷 Hakkımda  
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=umutc4n&show_icons=true&locale=en&theme=dark" alt="Umutcan Erkut" />
+Merhaba, ben **Umutcan Erkut**! İstanbul'da yaşayan, yazılım geliştirici ve teknoloji tutkunu biriyim.  
+
+### 🚀 Çalışmalarım:  
+- **U4Verse Yazılım Şirketi:** Şirketin büyümesini destekleyen projeler üzerinde çalışıyorum.  
+- **U4Verse Proje Sistemi:** Projeleri listeleyip arka planda API servislerini tetikleyen sistem.  
+- **U4Verse Ç.A.K.I.:** Çok Amaçlı Kurumsal İnovasyon platformu.  
+- **Chronobreak:** Zaman yolculuğu ve polisiye temalı bir oyun.  
+- **Chatret:** Anonim sohbet uygulaması.  
+- **Açık Dünya Şehir Projesi:** Yaşam döngüleri olan karakterlerle dolu bir açık dünya projesi.  
+
+---
+
+### 🧑‍💻 Teknolojiler & Araçlar  
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Code-Laravel-critical?style=flat&logo=laravel&logoColor=white&color=FF2D20" />
+  <img src="https://img.shields.io/badge/Code-Node.js-success?style=flat&logo=node.js&logoColor=white&color=339933" />
+  <img src="https://img.shields.io/badge/Code-Unreal_Engine-important?style=flat&logo=unrealengine&logoColor=white&color=0E1128" />
+  <img src="https://img.shields.io/badge/Code-Python-3572A5?style=flat&logo=python&logoColor=white" />
 </p>
 
-<p align="left"> 
-<img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=octocat.umutc4n&label=visits&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=1D70B8&style=for-the-badge" alt="Umutcan Erkut" />
+---
+
+### 🌎 Benimle İletişime Geçin  
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/umutc4n" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow%20me-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/uc.erkut" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20me-red?style=flat&logo=instagram" />
+  </a> 
 </p>
 
+---
 
-<h3 align="left">
-🧑‍💻 Learning & Using
-</h3>
+<a id="about-me"></a>
+## 🇬🇧 About Me  
 
-<p align="left"> 
-    <a href="https://www.linux.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://code.visualstudio.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" alt="vscode" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.gnu.org/software/bash/" target="_blank"> 
-        <img src="https://github.com/github/explore/blob/main/topics/terminal/terminal.png?raw=true" alt="vscode" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/cs/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-    </a> 
-    <a href="https://azure.microsoft.com/tr-tr/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/azure/azure.png" alt="azure" width="40" height="40"/> 
-    </a>
-    <a href="https://dotnet.microsoft.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/aspnet.png" alt="dotnet" width="40" height="40"/> 
-    </a>  
-    <a href="https://www.docker.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.nuget.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/nuget/nuget.png" alt="nuget" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.npmjs.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" alt="npm" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png?raw=true" alt="android" width="40" height="40"/> 
-    </a> 
-    <a href="https://kotlinlang.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png?raw=true" alt="kotlin" width="40" height="40"/> 
-    </a> 
-    <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/html/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?raw=true" alt="html" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-    </a> 
-    <a href="https://angular.io/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/github/explore/main/topics/angular/angular.png" alt="angular" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.typescriptlang.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-        <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png?raw=true" alt="mssql" width="40" height="40"/> 
-    </a> 
-    <a href="https://postman.com" target="_blank"> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-    </a> 
-    <a href="https://dev.java/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png?raw=true" alt="java" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.python.org/" target="_blank"> 
-        <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png?raw=true" alt="python" width="40" height="40"/> 
-    </a> 
+Hi, I'm **Umutcan Erkut**, a passionate software developer based in **Istanbul, Turkey**.  
+
+### 🚀 My Work:  
+- **U4Verse Software Company:** Supporting its growth with innovative projects.  
+- **U4Verse Project System:** Lists projects and triggers API services in the background.  
+- **U4Verse Ç.A.K.I.:** Multi-Purpose Corporate Innovation platform.  
+- **Chronobreak:** A time-travel and detective-themed game.  
+- **Chatret:** Anonymous messaging application.  
+- **Open World City Project:** Building a world with characters living their own life cycles.  
+
+---
+
+### 🧑‍💻 Technologies & Tools  
+<p align="center"> 
+  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=61DAFB" />
+  <img src="https://img.shields.io/badge/Code-Laravel-critical?style=flat&logo=laravel&logoColor=white&color=FF2D20" />
+  <img src="https://img.shields.io/badge/Code-Node.js-success?style=flat&logo=node.js&logoColor=white&color=339933" />
+  <img src="https://img.shields.io/badge/Code-Unreal_Engine-important?style=flat&logo=unrealengine&logoColor=white&color=0E1128" />
+  <img src="https://img.shields.io/badge/Code-Python-3572A5?style=flat&logo=python&logoColor=white" />
 </p>
 
+---
 
-<h3 align="left">
-🌎 Connect with me: 
-</h3>
-
-<p align="left"> 
-    <a href="https://instagram.com/uc.erkut" target="blank">
-        <img src="https://img.shields.io/badge/instagram-follow%20on%20uc.erkut-red?style=for-the-badge&logo=instagram" alt="uc.erkut" />
-    </a> 
+### 🌎 Connect With Me  
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/umutc4n" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Follow%20me-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/uc.erkut" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow%20me-red?style=flat&logo=instagram" />
+  </a> 
 </p>
 
-<p align="left"> 
-    <a href="https://www.linkedin.com/in/umutc4n" target="blank">
-        <img src="https://img.shields.io/badge/linkedin-follow%20on%20umutc4n-blue?style=for-the-badge&logo=linkedin" alt="umutc4n" />
-    </a> 
-</p>
+---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/umutc4n/umutc4n/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
