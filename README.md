@@ -73,9 +73,9 @@ Ventured into game development with Unreal Engine:
 ## Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umutc4n&show_icons=true&count_private=true&theme=github_dark&hide_border=true&include_all_commits=true" height="150"/>
+  <img src="https://github-readme-stats-ivory-two-85.vercel.app/api?username=umutc4n&show_icons=true&count_private=true&theme=github_dark&hide_border=true&include_all_commits=true" height="150"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umutc4n&layout=compact&theme=github_dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats-ivory-two-85.vercel.app/api/top-langs/?username=umutc4n&layout=compact&theme=github_dark&hide_border=true&count_private=true" height="150"/>
 </p>
 
 <p align="center">
