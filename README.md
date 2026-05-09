@@ -19,9 +19,9 @@ I build products at the intersection of AI and real-world utility — from softw
 
 ## Journey
 
-**CTO → Founder Engineer &nbsp;·&nbsp; [Promake](https://promake.ai)**
+**Co-Founder & CTO → Founder Engineer &nbsp;·&nbsp; [Promake](https://promake.ai)**
 
-Joined Promake — *"Talk to AI. Build a real website"* — as **CTO**, architecting the platform from scratch. As the company scaled and a new CTO came on board, transitioned into a **Founder Engineer** role — staying deep in AI agents, backend systems, and cloud infrastructure.
+Joined Promake as a co-founder and served as **CTO**, helping lay the technical foundation from the ground up — including AI systems and backend architecture. As the company scaled and a new CTO came on board, transitioned into a **Founder Engineer** role — staying close to the product, supporting backend and frontend engineering at the core level.
 
 ---
 
