@@ -29,9 +29,10 @@ Joined Promake as a co-founder and served as **CTO**, helping lay the technical 
 
 Built and shipped multiple products:
 
+- **Ç.A.K.I.** *(Çok Amaçlı Kurumsal İnovasyon — Multi-Purpose Corporate Innovation)* — enterprise innovation platform
 - **U4Verse Project System** — project management platform with background API orchestration
-- **U4Verse Ç.A.K.I.** — multi-purpose corporate innovation platform
 - **Chatret** — anonymous messaging application
+- **Gamification Experience** — Developed an interactive gamification experience with Unreal Engine for a global beverage company operating in 40+ countries; designed to teach workplace safety rules, test employee knowledge, and drive motivation on the production floor
 
 ---
 
@@ -48,10 +49,12 @@ Ventured into game development with Unreal Engine:
 
 | | |
 |---|---|
-| **AI Agents & Pipelines** | Autonomous agents, LLM orchestration, prompt engineering |
+| **AI-First Development** | LLM integration, autonomous agents, RAG pipelines, prompt engineering |
+| **Mobile** | Cross-platform apps with React Native |
 | **Backend Systems** | Scalable APIs, microservices, event-driven architectures |
-| **Cloud Infrastructure** | AWS, Docker, GitHub Actions CI/CD |
+| **Cloud & DevOps** | AWS, Docker, GitHub Actions CI/CD |
 | **Full-Stack** | React, Node.js, Laravel — when the product demands it |
+| **Technical Leadership** | Founding CTO experience — team building, architecture decisions, 0-to-1 product delivery |
 
 ---
 
@@ -62,6 +65,7 @@ Ventured into game development with Unreal Engine:
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
