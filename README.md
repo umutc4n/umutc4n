@@ -32,14 +32,15 @@ Built and shipped multiple products:
 - **Ç.A.K.I.** *(Çok Amaçlı Kurumsal İnovasyon — Multi-Purpose Corporate Innovation)* — enterprise innovation platform
 - **U4Verse Project System** — project management platform with background API orchestration
 - **Chatret** — anonymous messaging application
-- **Gamification Experience** — Developed an interactive gamification experience with Unreal Engine for a global beverage company operating in 40+ countries; designed to teach workplace safety rules, test employee knowledge, and drive motivation on the production floor
+- **Gamification Experience** — Interactive gamification experience built with Unreal Engine for a global beverage company operating in 40+ countries; designed to teach workplace safety rules, test employee knowledge, and drive motivation on the production floor
+- **Zero Waste System** — Built in collaboration with the Turkish Ministry of Environment and Urbanization, piloted in Kızılcahamam; a full-stack system for managing zero waste cards, point distribution, receipt generation, and garbage truck route optimization
+- **Zero Waste VR Experience** — An immersive VR experience designed to teach children about zero waste and environmental awareness
 
 ---
 
 **Founder &nbsp;·&nbsp; U4 Game Co**
 
-Ventured into game development with Unreal Engine:
-
+- **FiveM Game Server** — Built a custom FiveM game server from scratch with a fully self-written framework, integrated with a companion mobile application and an in-game tokenization system
 - **Chronobreak** — time-travel and detective-themed game
 - **Open World City Project** — open world with characters living independent life cycles
 
