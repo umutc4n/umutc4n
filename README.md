@@ -46,6 +46,18 @@ Built and shipped multiple products:
 
 ---
 
+**Freelance Software Engineer**
+
+Delivered web, mobile, and custom software projects for various clients across industries.
+
+---
+
+**Security Engineering & Penetration Testing**
+
+Conducted penetration tests for organizations, identified and remediated vulnerabilities across web, mobile, and network surfaces — covering both offensive and defensive security.
+
+---
+
 ## What I Build
 
 | | |
